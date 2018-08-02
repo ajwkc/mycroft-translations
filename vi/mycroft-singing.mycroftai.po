@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-08-02 22:01+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /vi/mycroft-translations/mycroft-singing.mycroftai.po\n"
+"X-Pootle-Revision: 1604\n"
+
+#: tags/mycroft-singing.mycroftai/Sing.voc:1
+msgid "sing"
+msgstr ""
+
+#: tags/mycroft-singing.mycroftai/Sing.voc:2
+msgid "sing me a song"
+msgstr ""
+
+#: tags/mycroft-singing.mycroftai/singing.dialog:1
+msgid "I would be happy to sing for you. "
+msgstr ""
+
+#: tags/mycroft-singing.mycroftai/singing.dialog:2
+msgid "Here I go."
+msgstr ""
+
+#: tags/mycroft-singing.mycroftai/singing.dialog:3
+msgid "I'm a bit nervous about my voice, but here goes nothing."
+msgstr ""
+
+#: tags/mycroft-singing.mycroftai/singing.stop.dialog:1
+msgid "thank you for listening"
+msgstr ""
+
+#: tags/mycroft-singing.mycroftai/singing.stop.dialog:2
+msgid "I hope you liked my voice"
+msgstr ""
+
+#: tags/mycroft-singing.mycroftai/singing.stop.dialog:3
+msgid "now you try"
+msgstr ""

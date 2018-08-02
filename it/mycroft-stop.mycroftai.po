@@ -1,0 +1,31 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-08-02 22:01+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.2.5\n"
+"X-Pootle-Path: /it/mycroft-translations/mycroft-stop.mycroftai.po\n"
+"X-Pootle-Revision: 1130\n"
+
+#: tags/mycroft-stop.mycroftai/StopKeyword.voc:1
+msgid "stop"
+msgstr ""
+
+#: tags/mycroft-stop.mycroftai/StopKeyword.voc:2
+msgid "silence"
+msgstr ""
+
+#: tags/mycroft-stop.mycroftai/StopKeyword.voc:3
+msgid "shut up"
+msgstr ""
+
+#: tags/mycroft-stop.mycroftai/StopKeyword.voc:4
+msgid "be quiet"
+msgstr ""
