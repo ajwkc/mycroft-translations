@@ -16,7 +16,7 @@ msgstr ""
 
 #: tags/fallback-unknown.mycroftai/question.dialog:1
 msgid "I'm sorry I can't help you with that."
-msgstr ""
+msgstr "test"
 
 #: tags/fallback-unknown.mycroftai/question.dialog:2
 #: tags/fallback-unknown.mycroftai/why.dialog:1
