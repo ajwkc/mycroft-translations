@@ -16,7 +16,7 @@ msgstr ""
 
 #: tags/mycroft-npr-news.mycroftai/News.voc:1
 msgid "news"
-msgstr ""
+msgstr "This is a demo!"
 
 #: tags/mycroft-npr-news.mycroftai/Play.voc:1
 msgid "play"
